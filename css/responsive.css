@@ -1,34 +1,40 @@
-@media (max-width:750px)
-{
-  header
-  {
-      padding: 0 20px;
-  }
-  .menu-toggle
-  {
-      display: block;
-  }
-  header nav
-  {
-    position: absolute;
-    width: 100%;
-    height: calc(100vh - 50px);
-    background: #333;
-    top:50px;
-    left:-100%;
-    transition: 0.5s;
-  }
-  header nav.active
-  {
-    left:0;
-  }
-  header nav ul
-  {
-    display:block;
-    text-align: center;
-  }
-  header nav ul li a
-  {
-    border-bottom: 1px solid rgba(0, 0, 0, .2);
-  }
+@media(max-width:768px){
+body{
+	background:#f9f9f9;
+}
+#wrapper{
+	padding:90px 15px;
+}
+.navbar-expand-lg .navbar-nav{
+	flex-direction: column;
+}
+.card{
+	margin-bottom: 15px;
+	border-radius:0;
+	box-shadow: 0 3px 5px rgba(0,0,0,.1); 
+}
+.header-top{
+	box-shadow: 0 3px 5px rgba(0,0,0,.1)
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
 }
