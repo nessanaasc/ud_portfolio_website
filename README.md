@@ -8,10 +8,8 @@ This website contains the following sections:
 4. Contact: a contact box to receive messages;
 5. A footer with icons of your Facebook, Instagram, e-mail and Linkedin.
 
-## In this repo
-This repository contains a index.html file in the main directory and subdirectories for images and css.
-
 ## Download and Installation
+This repository contains a index.html file in the main directory and subdirectories for images and css.
 To begin using this template:
 Clone the repo: git clone https://github.com/nessanaasc/ud_portfolio_website
 Fork, Clone, or Download on GitHub
