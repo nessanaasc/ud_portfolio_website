@@ -6,10 +6,10 @@ This website contains the following sections:
 1. Portfolio: a Bootstrap grid organized section to add your projects;
 3. About: talk about you and your work;
 4. Contact: a contact box to receive messages;
-5. A footer with icons of your Facebook, Instagram, e-mail and Linkedin. You can add more icons using the font-awesome.min.css icons. For information about the use: https://fontawesome.com/v4.7.0/get-started/
+5. A footer with icons of your Facebook, Instagram, e-mail and Linkedin.
 
 ## In this repo
-This repository contains a index.html, logo.png  and favicon.ico files in the main directory and subdirectories for images and css.
+This repository contains a index.html file in the main directory and subdirectories for images and css.
 
 ## Download and Installation
 To begin using this template:
